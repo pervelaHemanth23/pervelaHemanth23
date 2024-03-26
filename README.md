@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Unity and C#, Photoshop, Blender**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pervelaHemanth23](https://github.com/pervelaHemanth23)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/pervelaHemanth23)
 
-- 💬 Ask me about **Game development**
+- 💬 Ask me about **Game development** and I would be more than happy to spend Hours with you :D
 
-- 📫 How to reach me **pervelahemanth@gmail.com**
+- 📫 Reach me at **pervelahemanth@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dQo2m3hVDmGcM6fpEFhdTNu43rHA-6-z/view?usp=sharing](https://drive.google.com/file/d/1dQo2m3hVDmGcM6fpEFhdTNu43rHA-6-z/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/1dQo2m3hVDmGcM6fpEFhdTNu43rHA-6-z/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny but I'm not**
 
