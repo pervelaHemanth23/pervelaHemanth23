@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pervela Hemanth</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
-- 🔭 I’m currently working on **Space Jam**
+- 🔭 I’m currently working on **M.A.R.S**
 
 - 🌱 I’m currently learning **Machine Learning, Unity and C#, Photoshop, Blender**
 
