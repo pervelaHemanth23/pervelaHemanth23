@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **pervelahemanth@gmail.com**
 
-- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/12RzcLV0gZpCvcxtfzFCjhZ0fx-N4ODWZ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/175tv3TvJqYkQ54Otrk0RZVlu2S1rCDVA/view?usp=sharing)
 - 🌏 You can also access my portfolio hosted on Wix [My Portfolio](https://pervelahemanth.wixsite.com/hemanthportfolio)
 
 - ⚡ Fun fact **I think I'm funny but I'm not**
