@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **M.A.R.S**, an Exciting space exploration game for Android.
 
-- 🌱 I’m currently learning **Machine Learning, Unity and C#, Photoshop & Blender**
+- 🌱 I’m currently learning **Machine Learning, Unity & Blender**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/pervelaHemanth23)
 
